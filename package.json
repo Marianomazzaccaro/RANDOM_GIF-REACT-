@@ -1,0 +1,25 @@
+{
+  "name": "dh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hola.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marianomazzaccaro/Primer-repositorio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marianomazzaccaro/Primer-repositorio/issues"
+  },
+  "homepage": "https://github.com/Marianomazzaccaro/Primer-repositorio#readme"
+}
